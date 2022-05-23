@@ -1,4 +1,4 @@
-# GCN-demo11
+# GCN-demo
 
 We will leverage DGL to finish the experiment. [What's DGL?](https://docs.dgl.ai/en/latest/index.html)
 
